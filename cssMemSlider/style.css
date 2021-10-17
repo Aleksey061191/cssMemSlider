@@ -231,7 +231,7 @@ p {
     animation-iteration-count: 1;
 }
 
-@media (min-width: 1300px) {
+@media (min-width: 1440px) {
     .text {
         font-size: 22px;
         line-height: 26px;
